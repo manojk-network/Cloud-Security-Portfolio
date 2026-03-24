@@ -1,6 +1,4 @@
-# Project Title
-
-## AWS Phase 4 – DNS, CDN & Messaging (Route 53, CloudFront, SNS, SQS, CloudWatch)
+# AWS Phase 4 – DNS, CDN & Messaging (Route 53, CloudFront, SNS, SQS, CloudWatch)
 
 ## Overview
 
