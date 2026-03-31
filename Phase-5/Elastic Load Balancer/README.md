@@ -1,6 +1,6 @@
 # Phase-5 Scaling & Automation
 
-## 1. AWS Load Balancer Project (CLB + ALB with Path Routing)
+## AWS Load Balancer Project (CLB + ALB with Path Routing)
 
 ### Overview
 This project demonstrates how to deploy and manage scalable web applications on AWS using EC2 instances and Elastic Load Balancers. It includes both Classic Load Balancer (basic distribution) and Application Load Balancer (advanced path-based routing).
