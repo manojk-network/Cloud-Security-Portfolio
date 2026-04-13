@@ -56,19 +56,6 @@ User → Load Balancer → EC2 (Elastic Beanstalk)
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-image-upload-app/
-│
-├── app.py
-├── requirements.txt
-├── Procfile
-└── uploads/
-```
-
----
-
 ## ⚡ Deployment Steps
 
 ### 1. Create S3 Bucket
